@@ -1,2 +1,2 @@
 # 2020-cpp-sandbox
-testing
+Summer 2020 C++ terminal program testing sandbox
